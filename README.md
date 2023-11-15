@@ -1,8 +1,5 @@
 # Quote Saver Chrome Extension
 
-![GitHub](https://img.shields.io/github/license/kashjot/quotesaverextension)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/kashjot/quotesaverextension)
-
 ## Overview
 
 The Quote Saver Chrome Extension is a simple yet powerful tool to save quotes from web pages. Streamline your research and content curation with ease. Your saved quotes, your way.

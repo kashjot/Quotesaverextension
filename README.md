@@ -1,7 +1,7 @@
 # Quote Saver Chrome Extension
 
-![GitHub](https://img.shields.io/github/license/yourusername/quotesaver-extension)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/yourusername/quotesaver-extension)
+![GitHub](https://img.shields.io/github/license/kashjot/quotesaverextension)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/kashjot/quotesaverextension)
 
 ## Overview
 
@@ -42,7 +42,7 @@ Check out the [CHANGELOG.md](CHANGELOG.md) for information on the latest release
 
 ## Contact
 
-For questions or support, feel free to reach out to [youremail@example.com].
+For questions or support, feel free to reach out to akashjot1997@gmail.com.
 
 ## Acknowledgments
 
